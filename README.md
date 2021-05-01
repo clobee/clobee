@@ -2,8 +2,10 @@
 
 :mechanical_arm: Backend engineer with DevOps tendencies.
 A lot of PHP, some Python and a bit of Go
+
+Cyber Security Junkie :X  
  
-🎓 Currently learning Cyber Security (Security+)  
+🎓 Cert: Cloud+ | Security+ | Pentest+ | ejPT   
 🔥 In love with quality code 🔥
 
 💡 Learn, 💻 Code, 🏝️ Travel and Repeat 🔁

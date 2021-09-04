@@ -9,7 +9,7 @@
 
 <p>
 Passionate Software Engineer with an interest in Ethical Hacking and all things web!  
-I have a broad-range experience working with the web industry doing different roles with a single purpose: deliver value to the end-users  
+I have a broad-range experience working with the web industry doing different roles with a single purpose: deliver value to the end-users.  
 <br/><br/>
 I am currently working on PHP platforms (Symfony Framework) with an awesome Agile team.  
 I also challenge my coding skills with Python while studying for Ethical hacking.

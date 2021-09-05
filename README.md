@@ -1,5 +1,7 @@
 <h2>Hi 👋, I'm <a href="https://www.linkedin.com/in/clobee/">Claude B.</a></h2>
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <p><b>🦾 Senior Software Engineer (backend) & Ethical Hacker</b></p>
 
 🎓 Cert: Cloud+ | Security+ | Pentest+ | ejPT   
@@ -28,10 +30,19 @@ print(dev.speciality)
 print(dev.languages[1])
 ```
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/clobee.png" alt="TryHackMe">
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=clobee&show_icons=true" alt="clobee" /> 
-</p>
-
-
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=clobee&show_icons=true" alt="clobee" />
+    </td>
+    <td>
+      <a href="https://tryhackme.com/p/clobee"><img  src="clobee.png" alt="TryHackMe"></a>
+      <br/>
+      <a href="https://app.hackthebox.eu/profile/422272">Hackthebox</a>
+      <br/>
+      <a href="https://cybermonkey.me/docs/CTF/THM/">Cybermonkek.me</a>
+      <br/>
+      <a href="https://www.linkedin.com/in/clobee/">Linkedin</a>
+    </td>
+  </tr>
+</table>

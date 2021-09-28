@@ -4,7 +4,7 @@
 
 <p><b>🦾 Senior Software Engineer (backend) & Ethical Hacker</b></p>
 
-🎓 Cert: Cloud+ | Security+ | Pentest+ | ejPT   
+🎓 Cert: Linux+ | Cloud+ | Security+ | Pentest+ | ejPT   
 🔥 In love with quality code (and my terminal :D) 🔥
 
 💡 Learn, 💻 Code, 🏝️ Travel and Repeat 🔁

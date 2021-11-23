@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><b>🦾 Senior Software Engineer (backend) & Ethical Hacker</b></p>
+<p><b>🦾 Ethical Hacker | Senior Software Engineer (backend)</b></p>
 
 🎓 Cert: Linux+ | Cloud+ | Security+ | Pentest+ | ejPT   
 🔥 In love with quality code (and my terminal :D) 🔥
@@ -38,11 +38,11 @@ print(dev.languages[1])
     <td>
       <a href="https://tryhackme.com/p/clobee"><img  src="clobee.png" alt="TryHackMe"></a>
       <br/>
-      <a href="https://app.hackthebox.eu/profile/422272">Hackthebox</a>
-      <br/>
-      <a href="https://cybermonkey.me/docs/CTF/THM/">Cybermonkek.me</a>
+      <a href="https://app.hackthebox.eu/profile/422272">HackTheBox</a>
       <br/>
       <a href="https://www.linkedin.com/in/clobee/">Linkedin</a>
+      <br/>
+      <a href="https://cybermonkey.me/docs/CTF/THM/">Cybermonkey.me</a>
     </td>
   </tr>
 </table>

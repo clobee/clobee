@@ -32,8 +32,8 @@ print(dev.languages[1])
 
 <table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=clobee&show_icons=true" alt="clobee" />
+    <td>      
+      <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=clobee&count_private=true&show_icons=true&theme=dark&line_height=27" height="170" alt="clobee" />
     </td>
     <td>
       <a href="https://tryhackme.com/p/clobee"><img  src="clobee.png" alt="TryHackMe"></a>

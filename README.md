@@ -36,7 +36,7 @@ print(dev.languages[1])
       <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=clobee&count_private=true&show_icons=true&theme=dark&line_height=27" height="170" alt="clobee" />
     </td>
     <td>
-      <a href="https://tryhackme.com/p/clobee"><img  src="clobee.png" alt="TryHackMe"></a>
+       <img src="https://tryhackme-badges.s3.amazonaws.com/clobee.png" alt="TryHackMe">
       <br/>
       <a href="https://app.hackthebox.eu/profile/422272">HackTheBox</a>
       <br/>

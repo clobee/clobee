@@ -4,7 +4,7 @@
 
 <p><b>🦾 Security Researcher | Senior Software Engineer (backend)</b></p>
 
-🎓 Cert: Linux+ | Cloud+ | Security+ | Pentest+ | ejPT | eCPPT (wip) | OSCP (wip) | CEH (wip)
+🎓 Cert: Linux+ | Cloud+ | Security+ | Pentest+ | ejPT | eCPPT | OSCP (wip) | CEH (wip)
 🔥 In love with quality code (and my terminal :D) 🔥
 
 💡 Learn, 💻 Code, 🏝️ Travel and Repeat 🔁

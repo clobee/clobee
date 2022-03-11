@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm <a href="https://www.linkedin.com/in/clobee/">Claude B.</a></h2>
+<h2>Hi 👋, I'm <a href="https://cybermonkey.me">Claude B.</a></h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -42,7 +42,7 @@ print(dev.languages[1])
       <br/>
       <a href="https://www.linkedin.com/in/clobee/">Linkedin</a>
       <br/>
-      <a href="https://cybermonkey.me/docs/CTF/THM/">Cybermonkey.me</a>
+      <a href="https://cybermonkey.me">Cybermonkey.me</a>
     </td>
   </tr>
 </table>

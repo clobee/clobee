@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><b>🦾 Security Researcher | Senior Software Engineer (backend)</b></p>
+<p><b>🦾 Senior Software Engineer (backend) | DevSecOp</b></p>
 
 🎓 Cert: Linux+ | Cloud+ | Security+ | Pentest+ | ejPT | eCPPT | OSCP (wip) | CEH (wip)
 🔥 In love with quality code (and my terminal :D) 🔥

@@ -1,10 +1,20 @@
-<h2>Hi 👋, I'm <a href="https://cybermonkey.me">Claude B.</a></h2>
+
+<img align='center' src="./github-banner.png"/>
+
+[![Cybermonkey.me](https://img.shields.io/badge/-cybermonkey.me-success?style=for-the-badge)](https://cybermonkey.me)
+[![Linkedin: clobee](https://img.shields.io/badge/-LinkedIn-0077B2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://ldd.com)](https://www.linkedin.com/in/clobee/)
+[![tryhackme.com](https://img.shields.io/badge/-tryhackme-red?style=for-the-badge&logoColor=white&link=https://tryhackme.com/p/clobee)](https://tryhackme.com/p/clobee)
+[![hackthebox.com](https://img.shields.io/badge/-hackthebox-green?style=for-the-badge&logoColor=white&link=https://app.hackthebox.eu/profile/422272)](https://app.hackthebox.eu/profile/422272)
+
+
+### Hi there <a href="https://cybermonkey.me"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p><b>🦾 Senior Software Engineer (backend) | DevSecOp</b></p>
 
-🎓 Cert: Linux+ | Cloud+ | Security+ | Pentest+ | ejPT | eCPPT | OSCP (wip) | CEH (wip)
+🎓 Cert: Linux+ | Cloud+ | Security+ | Pentest+ | ejPT | eCPPT | OSCP (wip) | CEH (wip) 
+
 🔥 In love with quality code (and my terminal :D) 🔥
 
 💡 Learn, 💻 Code, 🏝️ Travel and Repeat 🔁
@@ -13,7 +23,7 @@
 Passionate Software Engineer with an interest in Ethical Hacking and all things web!  
 I have a broad-range experience working with the web industry doing different roles with a single purpose: deliver value to the end-users.  
 <br/><br/>
-I am currently working on PHP platforms (Symfony Framework) with an awesome Agile team.  
+I am currently working on PHP platforms (Symfony Framework) with an awesome Agile team.
 I also challenge my coding skills with Python while studying for Ethical hacking.
 </p>
 
@@ -30,19 +40,31 @@ print(dev.speciality)
 print(dev.languages[1])
 ```
 
-<table align="center">
-  <tr>
-    <td>      
-      <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=clobee&count_private=true&show_icons=true&theme=dark&line_height=27" height="170" alt="clobee" />
-    </td>
-    <td>
-       <a href="https://tryhackme.com/p/clobee"><img src="https://tryhackme-badges.s3.amazonaws.com/clobee.png" alt="TryHackMe"></a>
-      <br/>
-      <a href="https://app.hackthebox.eu/profile/422272">HackTheBox</a>
-      <br/>
-      <a href="https://www.linkedin.com/in/clobee/">Linkedin</a>
-      <br/>
-      <a href="https://cybermonkey.me">Cybermonkey.me</a>
-    </td>
-  </tr>
-</table>
+
+### GitHub Stats 📈
+
+<div align="center">
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/clobee">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clobee&hide=javascript&layout=compact&hide_border=true&langs_count=6" alt="Claude's Language Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/clobee">
+            <img src="https://github-readme-stats.vercel.app/api?username=clobee&show_icons=true&hide=stars&hide_border=true" alt="Claude's GitHub Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+      </tr>
+    </tbody>
+  <table>
+<div>
+
+
+

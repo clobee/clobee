@@ -4,7 +4,7 @@
 [![Cybermonkey.me](https://img.shields.io/badge/-cybermonkey.me-success?style=for-the-badge)](https://cybermonkey.me)
 [![Linkedin: clobee](https://img.shields.io/badge/-LinkedIn-0077B2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://ldd.com)](https://www.linkedin.com/in/clobee/)
 [![tryhackme.com](https://img.shields.io/badge/-tryhackme-red?style=for-the-badge&logoColor=white&link=https://tryhackme.com/p/clobee)](https://tryhackme.com/p/clobee)
-[![hackthebox.com](https://img.shields.io/badge/-hackthebox-green?style=for-the-badge&logoColor=white&link=https://app.hackthebox.eu/profile/422272)](https://app.hackthebox.eu/profile/422272)
+[![hackthebox.com](https://img.shields.io/badge/-hackthebox-black?style=for-the-badge&color=black&link=https://app.hackthebox.eu/profile/422272)](https://app.hackthebox.eu/profile/422272)
 
 
 ### Hi there <a href="https://cybermonkey.me"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
@@ -13,7 +13,7 @@
 
 <p><b>🦾 Senior Software Engineer (backend) | DevSecOp</b></p>
 
-🎓 Cert: Linux+ | Cloud+ | Security+ | Pentest+ | ejPT | eCPPT | OSCP (wip) | CEH (wip) 
+🎓 **Certs** : Linux+ | Cloud+ | Security+ | Pentest+ | ejPT | eCPPT | OSCP (wip) | CEH (wip) 
 
 🔥 In love with quality code (and my terminal :D) 🔥
 

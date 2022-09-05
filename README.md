@@ -1,4 +1,9 @@
 
+
+<div align="center">"What I do have are a very particular set of skills. Skills I have acquired over many long geek nights." - Liam Neeson (and myself)</div>
+
+---
+
 <img align='center' src="./github-banner.png"/>
 
 [![Cybermonkey.me](https://img.shields.io/badge/-cybermonkey.me-success?style=for-the-badge)](https://cybermonkey.me)

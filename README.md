@@ -16,7 +16,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><b>🦾 Senior Software Engineer (backend) | DevSecOp</b></p>
+<p><b>🦾 DevSecOps | Senior software engineer (Back-end)</b></p>
 
 🎓 **Sec Certs** : Linux+ | Cloud+ | Security+ | Pentest+ | ejPT | eCPPT | CEH | OSCP (wip) | AWS (wip)
 
@@ -27,11 +27,14 @@
 💡 Learn, 💻 Code, 🏝️ Travel and Repeat 🔁
 
 <p>
-Passionate Software Engineer with an interest in Ethical Hacking and all things web!  
-I have a broad-range experience working with the web industry doing different roles with a single purpose: deliver value to the end-users.  
+Passionate DevSecOps Engineer<br/>
+I have a diverse range of experience in the web industry, having fulfilled a variety of roles all with the goal of delivering value to end users. 
 <br/><br/>
-I am currently working on PHP platforms (Symfony Framework) with an awesome Agile team.
-I also challenge my coding skills with Python while studying for Ethical hacking.
+I am currently working on fixing broken pipelines<br/>
+ensuring that my Agile team mates have everything they need to ship code.<br/>
+I also occasionally work on PHP platforms using the Symfony Framework.<br/>
+In addition, I am also shipping Python and Bash;<br/>
+making sure I keep up with the security world
 </p>
 
 ```python

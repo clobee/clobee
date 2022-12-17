@@ -1,6 +1,6 @@
 
 
-<div align="center">"What I do have are a very particular set of skills. Skills I have acquired over many long geek nights." - Liam Neeson (and myself)</div>
+<div align="center">"What I do have are a very particular set of skills. Skills I have acquired over many long nights spent geeking out." - Liam Neeson (and myself)</div>
 
 ---
 
@@ -18,7 +18,9 @@
 
 <p><b>🦾 Senior Software Engineer (backend) | DevSecOp</b></p>
 
-🎓 **Certs** : Linux+ | Cloud+ | Security+ | Pentest+ | ejPT | eCPPT | OSCP (wip) | CEH (wip) 
+🎓 **Sec Certs** : Linux+ | Cloud+ | Security+ | Pentest+ | ejPT | eCPPT | CEH | OSCP (wip) | AWS (wip)
+
+📟 **Other Certs** : AWS (wip) | Azure (wip)
 
 🔥 In love with quality code (and my terminal :D) 🔥
 

@@ -18,7 +18,7 @@
 
 <p><b>🦾 DevSecOps | Senior software engineer (Back-end)</b></p>
 
-🎓 **Sec Certs** : Linux+ | Cloud+ | Security+ | Pentest+ | ejPT | eCPPT | CEH Master | OSCP (wip) | AWS (wip)
+🎓 **Sec Certs** : Linux+ | Cloud+ | Security+ | Pentest+ | ejPT | eCPPT | CEH Master | OSCP (wip)
 
 📟 **Other Certs** : AWS (wip) | Azure (wip)
 

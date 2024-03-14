@@ -20,6 +20,9 @@
 
 🎓 **Sec Certs** : Linux+ | Cloud+ | Security+ | Pentest+ | ejPT | eCPPT | CEH Master | OSCP (wip)
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 📟 **Other Certs** : AWS (wip) | Azure (wip)
 
 🔥 In love with quality code (and my terminal :D) 🔥

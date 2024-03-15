@@ -53,6 +53,14 @@ print(dev.languages[1])
 ### Badges 🛡️
 
 <!--START_SECTION:badges-->
+[![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/821fc17b-bd5b-4540-953d-4aaf5c0217aa "GitHub Actions")
+[![GitHub Advanced Security](https://images.credly.com/size/110x110/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png)](http://www.credly.com/badges/57dd4714-51bc-44e7-9b6b-b87c39f0f3ed "GitHub Advanced Security")
+[![CompTIA Linux+ ce Certification](https://images.credly.com/size/110x110/images/6edb32c5-37d8-4fd4-98cd-2811932f0185/CompTIA_Linux_2Bce.png)](http://www.credly.com/badges/f58054f7-b502-4227-a415-00ef9e2bf3c8 "CompTIA Linux+ ce Certification")
+[![CompTIA Network Vulnerability Assessment Professional – CNVP Stackable Certification](https://images.credly.com/size/110x110/images/3eaf80a9-a69a-480a-a98b-e9a91796d6cb/CompTIA_CNVP.png)](http://www.credly.com/badges/3c783712-8715-47d0-bcd6-2c6debbd517e "CompTIA Network Vulnerability Assessment Professional – CNVP Stackable Certification")
+[![CompTIA PenTest+ ce Certification](https://images.credly.com/size/110x110/images/87ef04a1-b68d-4c11-acaf-a5b1d4c2c9ea/CompTIA_PenTest_2B.png)](http://www.credly.com/badges/f34c3d08-6e47-41e7-8a17-50bf40a86112 "CompTIA PenTest+ ce Certification")
+[![CompTIA Secure Cloud Professional – CSCP Stackable Certification](https://images.credly.com/size/110x110/images/9f54bf46-dc18-408c-a74e-2637facd1856/CompTIA_CSCP.png)](http://www.credly.com/badges/ce5664ee-df82-4a9d-8f93-b83780e3753f "CompTIA Secure Cloud Professional – CSCP Stackable Certification")
+[![CompTIA Cloud+ ce Certification](https://images.credly.com/size/110x110/images/4a1a7339-ce0f-458a-9ee7-620416e68c19/CompTIA_Cloud_2Bce.png)](http://www.credly.com/badges/2634e509-d26b-4488-a15a-15b6dc86ff6c "CompTIA Cloud+ ce Certification")
+[![CompTIA Security+ ce Certification](https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](http://www.credly.com/badges/e6d46bd4-5747-41b7-9d54-017f2a255f1c "CompTIA Security+ ce Certification")
 <!--END_SECTION:badges-->
 
 ### GitHub Stats 📈

@@ -52,6 +52,9 @@ print(dev.languages[1])
 
 ### Badges 🛡️
 
+[![eCPPT](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79652816)](https://verified.elearnsecurity.com/certificates/b3742e84-4401-4b55-875d-4830bf2baa84 "eLearnSecurity eCPPT Certified Professional Penetration Tester")
+[![eJPT](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79638906)](https://verified.elearnsecurity.com/certificates/739bd877-bd5f-4489-94bb-efd1a0e2a3b7 "eLearnSecurity eJPT Junior Penetration Tester")
+
 <!--START_SECTION:badges-->
 [![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/821fc17b-bd5b-4540-953d-4aaf5c0217aa "GitHub Actions")
 [![GitHub Advanced Security](https://images.credly.com/size/110x110/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png)](http://www.credly.com/badges/57dd4714-51bc-44e7-9b6b-b87c39f0f3ed "GitHub Advanced Security")

@@ -53,8 +53,11 @@ print(dev.languages[1])
 
 ### Badges 🛡️
 
-[![eCPPT](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79652816)](https://verified.elearnsecurity.com/certificates/b3742e84-4401-4b55-875d-4830bf2baa84 "eLearnSecurity eCPPT Certified Professional Penetration Tester")
-[![eJPT](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79638906)](https://verified.elearnsecurity.com/certificates/739bd877-bd5f-4489-94bb-efd1a0e2a3b7 "eLearnSecurity eJPT Junior Penetration Tester")
+<a href="#" title="CEH - Certified Ethical Hacker" rel="nofollow"><img src="https://github.com/clobee/clobee/blob/master/CEH.png" alt="CEH" style="max-width: 100%;" width="110"></a>
+<a href="#" title="CEH Master - Certified Ethical Hacker" rel="nofollow"><img src="https://github.com/clobee/clobee/blob/master/CEHMASTER.png" alt="CEH MASTER" style="max-width: 100%;" width="110"></a>
+<a href="#" title="CEH Practical - Certified Ethical Hacker" rel="nofollow"><img src="https://github.com/clobee/clobee/blob/master/CEHPRACTICAL.png" alt="CEH Practical" style="max-width: 100%;" width="110"></a>
+<a href="https://verified.elearnsecurity.com/certificates/b3742e84-4401-4b55-875d-4830bf2baa84" title="eLearnSecurity, eCPPT Certified Professional Penetration Tester" rel="nofollow"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79652816" alt="eLearnSecurity, eCPPT Certified Professional Penetration Tester" style="max-width: 100%;" width="110"></a>
+<a href="https://verified.elearnsecurity.com/certificates/739bd877-bd5f-4489-94bb-efd1a0e2a3b7" title="eLearnSecurity, eJPT Certified Professional Penetration Tester" rel="nofollow"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79638906" alt="eLearnSecurity eJPT Junior Penetration Tester" style="max-width: 100%;" width="110"></a>
 
 <!--START_SECTION:badges-->
 [![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/821fc17b-bd5b-4540-953d-4aaf5c0217aa "GitHub Actions")

@@ -60,6 +60,7 @@ print(dev.languages[1])
 <a href="https://verified.elearnsecurity.com/certificates/739bd877-bd5f-4489-94bb-efd1a0e2a3b7" title="eLearnSecurity, eJPT Certified Professional Penetration Tester" rel="nofollow"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79638906" alt="eLearnSecurity eJPT Junior Penetration Tester" style="max-width: 100%;" width="110"></a>
 
 <!--START_SECTION:badges-->
+[![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/1cee1c9d-b585-4650-9416-7071c022c40d "Introduction to Cybersecurity")
 [![Ethical Hacker](https://images.credly.com/size/110x110/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png)](http://www.credly.com/badges/aca04c02-2650-43f4-9946-e4309892e330 "Ethical Hacker")
 [![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/821fc17b-bd5b-4540-953d-4aaf5c0217aa "GitHub Actions")
 [![GitHub Advanced Security](https://images.credly.com/size/110x110/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png)](http://www.credly.com/badges/57dd4714-51bc-44e7-9b6b-b87c39f0f3ed "GitHub Advanced Security")

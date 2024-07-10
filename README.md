@@ -72,6 +72,11 @@ print(dev.languages[1])
 [![CompTIA Security+ ce Certification](https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](http://www.credly.com/badges/e6d46bd4-5747-41b7-9d54-017f2a255f1c "CompTIA Security+ ce Certification")
 <!--END_SECTION:badges-->
 
+### Blog posts 📰
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### GitHub Stats 📈
 
 <div align="center">

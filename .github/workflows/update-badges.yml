@@ -15,3 +15,9 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: claude-b
+      - name: Pull in posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://cybermonkey.me/feed.xml"
+          max_post_count: 5
+          

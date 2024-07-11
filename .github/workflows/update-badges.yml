@@ -18,6 +18,6 @@ jobs:
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://cybermonkey.me/feed.xml"
+          feed_list: "https://pencer.io/feed.xml"
           max_post_count: 5
           

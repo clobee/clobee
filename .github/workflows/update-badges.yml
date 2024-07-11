@@ -5,7 +5,9 @@ on:
     # Runs at 0:15am UTC every day
     - cron: "15 0 * * *"
   workflow_dispatch:
-    
+permissions:
+  contents: write # To write the generated contents to the readme
+  
 jobs:
   update-readme:
     name: Update Readme with badges

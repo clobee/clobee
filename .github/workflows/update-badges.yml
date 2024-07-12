@@ -18,21 +18,21 @@ jobs:
         with:       
           CREDLY_USER: claude-b
           
-      - name: Testing the feed
-        run: curl -I https://cybermonkey.me/feed.xml
+      # - name: Testing the feed
+      #   run: curl -I https://cybermonkey.me/feed.xml
 
-      - name: Checkout
-        uses: actions/checkout@v4
-        continue-on-error: true
-        with:
-          fetch-depth: 0
-          persist-credentials: true
-          set-safe-directory: true
-          submodules: 'recursive'
-          clean: true
+      # - name: Checkout
+      #   uses: actions/checkout@v4
+      #   continue-on-error: true
+      #   with:
+      #     fetch-depth: 0
+      #     persist-credentials: true
+      #     set-safe-directory: true
+      #     submodules: 'recursive'
+      #     clean: true
         
-      - name: Pull in posts
-        uses: gautamkrishnar/blog-post-workflow@1.8.8
-        with:
-          feed_list: "https://cybermonkey.me/feed.xml"
+      # - name: Pull in posts
+      #   uses: gautamkrishnar/blog-post-workflow@1.8.8
+      #   with:
+      #     feed_list: "https://cybermonkey.me/feed.xml"
           
